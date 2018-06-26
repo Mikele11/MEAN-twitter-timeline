@@ -1,0 +1,27 @@
+{
+  "name": "sample-angular-node",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^0.8.8",
+    "express": "^4.2.0",
+    "qs": "*",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "twit": "^1.1.20"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-amd": "^6.24.1"
+  },
+  "description": "Rendering Tweets with Angular & Node ===================",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC"
+}
